@@ -18,7 +18,7 @@ ADM_GET_ConversionRate
 (453,454,455,456,457,458,459,460, 461,462,463,464,465,466)
 
 Admin -- Karmic Karmic@123 (817)
-----------------------------------18860
+----------------------------------
 Credit Card(Indian)=820
 Debit Card(Indian) =1180
 International Credit Cards =2170
